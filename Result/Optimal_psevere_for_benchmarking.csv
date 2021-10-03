@@ -1,0 +1,15 @@
+"goal","design","ofv.min","p_severe"
+"(A) For all","Existing",2.32710996194309,0.01
+"(A) For all","Equal",2.25180246779413,0.13
+"(A) For all","PopSize",2.33061148041436,0.09
+"(A) For all","Case",2.33487393881921,0.01
+"(A) For all","IncRate",2.01589444137379,0.09
+"(A) For all","SevereCase",3.16750057937862,0.01
+"(A) For all","SevereIncRate",2.45687642073062,0.01
+"(B) For severe","Existing",0.0323025978005923,0.55
+"(B) For severe","Equal",0.0308778636700351,0.47
+"(B) For severe","PopSize",0.0315269903784656,0.55
+"(B) For severe","Case",0.0324396461387451,0.43
+"(B) For severe","IncRate",0.028230407323717,0.57
+"(B) For severe","SevereCase",0.0425512504090885,0.31
+"(B) For severe","SevereIncRate",0.0344733863138373,0.51
